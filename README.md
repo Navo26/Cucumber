@@ -4,7 +4,7 @@ It consists Java and Selenium Codes,The Repository is Public so anyone can view 
 
 # GETTING STARTED :
 The Repository Consists of various Structured Folders Week wise, Depending on the Knowledge shared by TestLeaf Team.
-This Repository consists of  projects which consits of selenium codes and different frameworks for, 8 weeks of Knowledge shared by TestLeaf Team.
+This Repository consists of  projects which consits of selenium codes and different frameworks used for 8 weeks by the enoromous Knowledge shared by TestLeaf Team.
 
 # PREREQUISITES :
 In order to Enrich The Knowledge shared by TestLeaf the Following Softwares need to be installed 
