@@ -13,7 +13,7 @@ In order to Enrich The Knowledge shared by TestLeaf the Following Softwares need
 
 ## INSTALLATION :
 * Download Java Version 8 ,Install and Set Environmental Path.
-* Once The Pathsetup is done , OPen your cmd prompt and check whether java is installed
+* Once The Pathsetup is done , Open your cmd prompt and check whether java is installed
 * cmd to be entered and checked : java -version
 * Once The version is displayed , Then Java is Successfully Installed
 * Download Eclipse IDE Photon and Install
